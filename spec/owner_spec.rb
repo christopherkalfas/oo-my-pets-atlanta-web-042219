@@ -4,6 +4,7 @@ describe Owner do
 
   let(:owner) { Owner.new("human") }
   let(:fish) { Fish.new("Nemo") }
+  let(:fish) { Fish.new("Lawrence Fishborne") }
   let(:cat) { Cat.new("Crookshanks") }
   let(:dog) { Dog.new("Fido") }
 
